@@ -46,5 +46,6 @@ class Student
   end
   def self.new_from_db(db)
   end
-
+  def update
+  end
 end
