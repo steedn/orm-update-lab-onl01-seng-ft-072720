@@ -44,8 +44,8 @@ class Student
     # (?,?)
     # SQL
     # DB[:conn].execute(sql, name, grade)
-    student = Student.new(name, grade)
-    student.save
+    # student = Student.new(name, grade)
+    # student.save
   end
 
   def self.new_from_db(row)
