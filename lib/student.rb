@@ -21,6 +21,6 @@ class Student
   end
   def self.drop_table
   end
-  def self.save
+  def save
   end
 end
